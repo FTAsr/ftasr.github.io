@@ -41,3 +41,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.menu {
+   float:left;
+   width:20%;
+   height:80%;
+}
+.mainContent {
+   float:left;
+   width:75%;
+   height:80%;
+}
