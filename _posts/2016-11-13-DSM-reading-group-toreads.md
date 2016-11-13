@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda for Distributional Semantics Metting"
-date: 2016-11-14
+date: 2016-11-13
 ---
 
 Here's the reading list for the Distributional Semantics Meeting (Nov 2016 -- Feb 2017):
