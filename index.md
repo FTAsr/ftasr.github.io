@@ -8,8 +8,7 @@ title: Short Bio
 
 ## Fatemeh Torabi Asr
 
-I am a post-doctoral fellow at the [Cognitive Computing Lab](http://www.compcog.com/) within the [Department of Psychological and Brain Sciences](http://psych.indiana.edu/) at [Indiana University (Bloomington)](https://www.indiana.edu). 
-My research interests focus broadly around computational linguistics, natural language processing and cognitive computing.  More specifically, I look into the intersection of [semantics](https://en.wikipedia.org/wiki/Semantics) and [discourse](https://en.wikipedia.org/wiki/Discourse), to see how words are represented in our memory and how we use them in everyday conversations to convay messages. The engineering goal is to develop language-intelligent systmes that benefit human society.
+I am a post-doctoral fellow at the [Cognitive Computing Lab](http://www.compcog.com/) within the [Department of Psychological and Brain Sciences](http://psych.indiana.edu/) at [Indiana University (Bloomington)](https://www.indiana.edu). With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systmes that benefit human society. 
 
 
 &nbsp;
