@@ -7,11 +7,13 @@ title: Research
 
 ## What is my research about?
 
-<ul class="bigFont">
-<li>Studying language aquisition and human communication by computational modeling, lab experiments and crowd sourcing.</li>
-<li>Large-scale text analysis to understand discourse semantics/structures and relating it to psychological and social behavior.</li>
-<li>Development of natural language processing systems for real-world tasks such as short answer scoring using latest machine learning techniques.</li>
-</ul>
+1) Studying language aquisition and human communication through computational
+> modeling, lab experiments and crowd sourcing.<br>
+2) Large-scale text analysis to understand discourse semantics/structures 
+> and relating it to psychological and social behavior.<br>
+3) Development of natural language processing systems for real-world tasks
+> such as short answer scoring using latest machine learning techniques.<br>
+
 
 &nbsp;
 &nbsp;
