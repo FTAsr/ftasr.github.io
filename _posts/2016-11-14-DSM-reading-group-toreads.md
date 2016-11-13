@@ -7,22 +7,22 @@ date: 2016-11-14
 Here's the reading list for the Distributional Semantics Meeting (Nov 2016 -- Feb 2017):
 
 
-* Learning to Understand Phrases by Embedding the Dictionary
+* Learning to Understand Phrases by Embedding the Dictionary. 
 Felix Hill,	KyungHyun Cho, Anna Korhonen, Yoshua Bengio
 
-* Word Embeddings as Metric Recovery in Semantic Spaces
+* Word Embeddings as Metric Recovery in Semantic Spaces. 
 Tatsunori B. Hashimoto, David Alvarez-Melis, Tommi S. Jaakkola
 
-* Sparse Non-negative Matrix Language Modeling
+* Sparse Non-negative Matrix Language Modeling. 
 Joris Pelemans, Noam Shazeer, Ciprian Chelba
 
-* From Visual Attributes to Adjectives through Decompositional Distributional Semantics
+* From Visual Attributes to Adjectives through Decompositional Distributional Semantics. 
 Angeliki Lazaridou, Georgiana Dinu,	Adam Liska, Marco Baroni
 
-* Improving Distributional Similarity with Lessons Learned from Word Embeddings
+* Improving Distributional Similarity with Lessons Learned from Word Embeddings. 
 Omer Levy, Yoav Goldberg, Ido Dagan
 
-* Deriving Boolean Structures from Distributional Vectors
+* Deriving Boolean Structures from Distributional Vectors. 
 Germán Kruszewski,	Denis Paperno,	Marco Baroni
 
 

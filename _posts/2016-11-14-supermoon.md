@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Super moon in Bloomington"
+title: "Supermoon in Bloomington"
 date: 2016-11-14
 ---
 
