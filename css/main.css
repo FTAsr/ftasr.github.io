@@ -1,6 +1,6 @@
 body {
-    margin: 10px auto;
-    width: 100%;
+    margin: 20px auto;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -41,11 +41,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 .menu {
    float:left;
    width:20%;
    height:80%;
 }
+
 .mainContent {
    float:left;
    width:75%;
