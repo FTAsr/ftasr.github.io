@@ -41,12 +41,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-div.menu {
+.menu {
    float:left;
    width:20%;
    height:80%;
 }
-div.mainContent {
+.mainContent {
    float:left;
    width:75%;
    height:80%;
