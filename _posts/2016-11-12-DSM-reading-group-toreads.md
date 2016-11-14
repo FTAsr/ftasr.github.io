@@ -11,7 +11,7 @@ Here's the reading list for the Distributional Semantics Meeting (Nov 2016 -- Fe
 - Sparse Non-negative Matrix Language Modeling. Joris Pelemans, Noam Shazeer, Ciprian Chelba
 - From Visual Attributes to Adjectives through Decompositional Distributional Semantics. Angeliki Lazaridou, Georgiana Dinu, Adam Liska, Marco Baroni
 - Improving Distributional Similarity with Lessons Learned from Word Embeddings. Omer Levy, Yoav Goldberg, Ido Dagan
-- Deriving Boolean Structures from Distributional Vectors. Germán Kruszewski, Denis Paperno, Marco Baroni
+- Deriving Boolean Structures from Distributional Vectors. German Kruszewski, Denis Paperno, Marco Baroni
 
 
 Notes: 
