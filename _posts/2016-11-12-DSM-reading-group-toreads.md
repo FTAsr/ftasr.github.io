@@ -16,5 +16,5 @@ Here's the reading list for the Distributional Semantics Meeting (Nov 2016 -- Fe
 
 Notes: 
 
-1. Future weekly meetings will take place every week from 11-12:00 at room 150 Informatics East.
-2. We will dedicate two weeks to each TACL paper: First session for overall discussion about the quality of the work, whether you liked the topic, what parts interested you most, resolving problems understanding the general argumentation and experiments. Second session for more detailed discussions on the resources, sharing your experience if you ever used a similar method, if you noticed a flaw or had difficulty understanding the technical details of an experiment or mathematical proves, how other research (perhaps yours) can benefit from the work, and finally deciding what to read next.
+- Future weekly meetings will take place every week from 11-12:00 at room 150 Informatics East.
+- We will dedicate two weeks to each TACL paper: First session for overall discussion about the quality of the work, whether you liked the topic, what parts interested you most, resolving problems understanding the general argumentation and experiments. Second session for more detailed discussions on the resources, sharing your experience if you ever used a similar method, if you noticed a flaw or had difficulty understanding the technical details of an experiment or mathematical proves, how other research (perhaps yours) can benefit from the work, and finally deciding what to read next.
