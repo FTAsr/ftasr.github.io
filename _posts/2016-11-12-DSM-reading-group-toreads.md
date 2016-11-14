@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agenda for Distributional Semantics Metting"
+title: "Agenda for Distributional Semantics Meeting"
 date: 2016-11-12
 ---
 
