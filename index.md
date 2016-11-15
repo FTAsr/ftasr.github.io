@@ -29,9 +29,9 @@ I am a post-doctoral fellow at the [Cognitive Computing Lab](http://www.compcog.
 
 ### Education
 
-- PhD, Computer Science, Saarland University, Saarbruecken, Germany, 2011 - 2015.
-- MSc, Software Engineering, Shiraz University, Shiraz, Iran, 2007 - 2010.
-- BSc, Computer Science and Engineering, Shiraz University, Shiraz, Iran, 2003 - 2007.
+- 2011 - 2015 PhD, Computer Science, [Saarland University](http://www.cs.uni-saarland.de)
+- 2007 - 2010 MSc, Software Engineering, [Shiraz University](http://web.shirazu.ac.ir/en/index.php?page_id=13)
+- 2003 - 2007 BSc, Computer Science and Engineering, [Shiraz University](http://web.shirazu.ac.ir/en/index.php?page_id=13)
 
 
 
