@@ -8,7 +8,7 @@ title: Research
 ## What is my research about?
 
 1) Studying language acquisition and human communication through computational modeling, lab experiments and crowd sourcing.<br>
-2) Large-scale text analysis to understand discourse semantics/structures and relating it to psychological and social behavior.<br>
+2) Large-scale text analysis to understand discourse semantics/structures and relating it to psychological and social phenomena.<br>
 3) Development of natural language processing systems for real-world tasks such as short answer scoring using latest machine learning techniques.<br>
 
 
@@ -26,7 +26,7 @@ title: Research
 - Application of information theory to production and comprehension of discourse markers (My PhD thesis)
 - Event detection and coreference analysis in large-scale text corpora (My project during an internship at University of Potsdam, Germany)
 - Computational modeling of word category acquisition (My Master's thesis, Collaboration with University of Toronto)
-- Heuristic search in automated Chinese Checkers players (My Bachelor's project, Collaboration with University of Alberta)
+- Heuristic search in artificial game players (My Bachelor's project, Collaboration with University of Alberta)
 
 
 
