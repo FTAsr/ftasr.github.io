@@ -13,11 +13,12 @@ I am a post-doctoral fellow at the [Cognitive Computing Lab](http://www.compcog.
 
 &nbsp;
 
-### Research Interests
 
-- Natural Language Processing (semantics, discourse structure, discourse analysis)
-- Cognitive Computing (information theory, strong artificial intelligence)
-- Machine Learning & Data Analysis (statistical learning, neural networks, deep learning)
+### Education
+
+- 2011 - 2015 PhD, Computer Science, [Saarland University](http://www.cs.uni-saarland.de)
+- 2007 - 2010 MSc, Software Engineering, [Shiraz University](http://web.shirazu.ac.ir/en/index.php?page_id=13)
+- 2003 - 2007 BSc, Computer Science and Engineering, [Shiraz University](http://web.shirazu.ac.ir/en/index.php?page_id=13)
 
 
 ### Academic Positions
@@ -26,12 +27,6 @@ I am a post-doctoral fellow at the [Cognitive Computing Lab](http://www.compcog.
 - 2014 - 2015: Research staff at [Collaborative Research Center SFB 1102](http://www.sfb1102.uni-saarland.de/)
 - 2011 - 2014: Research staff at [MMCI Cluster of Excellence](http://www.mmci.uni-saarland.de/en/start)
 
-
-### Education
-
-- 2011 - 2015 PhD, Computer Science, [Saarland University](http://www.cs.uni-saarland.de)
-- 2007 - 2010 MSc, Software Engineering, [Shiraz University](http://web.shirazu.ac.ir/en/index.php?page_id=13)
-- 2003 - 2007 BSc, Computer Science and Engineering, [Shiraz University](http://web.shirazu.ac.ir/en/index.php?page_id=13)
 
 
 
