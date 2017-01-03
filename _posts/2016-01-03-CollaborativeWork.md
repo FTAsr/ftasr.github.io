@@ -4,7 +4,7 @@ title: "Notes on Collaborative Work"
 date: 2017-01-03
 ---
 
-With more students starting to work with me on Natural Language Processing projects, I thought to make a few posts on collaboration basics. Hopefully, these posts will help us plan and pursue our projects more efficiently and enjoy a distinguishable team work. 
+With more students starting to work with me on Natural Language Processing projects, I've decided to make a few posts on collaboration basics. Hopefully, these posts will help us plan and pursue our projects more efficiently and enjoy a distinguishable team work. 
 This first post contains some general notes on teamwork and some more specific information on collaborative program development and writing. 
 
 ------
