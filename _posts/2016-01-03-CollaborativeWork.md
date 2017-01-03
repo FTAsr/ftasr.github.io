@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Notes on collaborative NLP application development"
+title: "Notes on collaborative work"
 date: 2017-01-03
 ---
 
 With more students starting to work with me on Natural Language Processing projects, I thought to make a few posts on collaboration basics. Hopefully, these posts will help us plan and pursue our projets more efficiently and enjoy a distinguishable team work. 
-This first post contains some general notes on teamwork and some more specific information on collaborative development, i.e., programing the general framework or integrative components of a system that performs a certain NLP task. 
+This first post contains some general notes on teamwork and some more specific information on collaborative program development and writing. 
 
 ------
 
