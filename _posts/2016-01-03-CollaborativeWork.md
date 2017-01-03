@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Notes on collaborative work"
+title: "Notes on Collaborative Work"
 date: 2017-01-03
 ---
 
-With more students starting to work with me on Natural Language Processing projects, I thought to make a few posts on collaboration basics. Hopefully, these posts will help us plan and pursue our projets more efficiently and enjoy a distinguishable team work. 
+With more students starting to work with me on Natural Language Processing projects, I thought to make a few posts on collaboration basics. Hopefully, these posts will help us plan and pursue our projects more efficiently and enjoy a distinguishable team work. 
 This first post contains some general notes on teamwork and some more specific information on collaborative program development and writing. 
 
 ------
@@ -33,7 +33,7 @@ Reliability is sometimes more important than performance. When people invest the
 We usually keep a shared repository for our collaborative work on [dropbox](https://www.dropbox.com), [github](https://github.com/), or a university server. It is essential for you to learn the basics of shared repositories and version control systems (git/svn). If you're not familiar with version control, it would be a good start for you to create an account and set up a homepage for yourself on github. Many tutorials can be found on web. Check the following links as starters.
 
 - For a proper introduction to version control systems see [this](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control).
-- For a quick start with github see [this](https://guides.github.com/activities/hello-world/).
+- For a helloworld start with github see [this](https://guides.github.com/activities/hello-world/).
 - To make a personal homepage like [mine](https://ftasr.github.io/) on github have a look at [Jonathan McGlone's tuturial](http://jmcglone.com/guides/github-pages/).
 
 ------
@@ -44,6 +44,7 @@ Documentation is a very helpful means of communication between you and other peo
 
 
 ------
+
 
 
 
