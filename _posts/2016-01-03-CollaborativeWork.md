@@ -12,7 +12,7 @@ This first post contains some general notes on teamwork and some more specific i
 
 ## Introduce yourself and your interests!
 
-It is important to introduce yourself as clearly as possible when you start working with a new group. It will help them identify your skills, interests, potentials and goals for suggesting the best fitting project to you. Therefore remember these four keywords and make sure you talk about them in your first meeting with the project manager or the main collaborator. If you hope to get financial help, have a publication, or someone to support you as a recommendation letter writer at the end, you should consider mentioning that in your conversation. For example some labs have a very good reputation or might help you get handson experience with some new techniques or research areas but cannot offer money or resources. So, be clear from the very first!
+It is important to introduce yourself as clearly as possible as soon as you start working with a new group. It will help them identify your *skills*, *interests*, *potentials* and *goals* for suggesting the best fitting project to you. Therefore remember these four keywords and make sure you talk about them in your first meeting with the project manager or the main collaborator. If you hope to get financial help, have a publication, or someone to support you as a recommendation letter writer at the end, you should consider mentioning that in your conversation. For example some labs have a very good reputation or might help you get handson experience with some new techniques or research areas but cannot offer money or resources. So, be clear from the very first!
 
 ------
 
