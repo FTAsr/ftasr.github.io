@@ -9,7 +9,9 @@ title: Short Bio
 ## Fatemeh Torabi Asr
 
 I am currently a post-doctoral fellow at the [Discourse Processing  Lab](http://www.sfu.ca/discourse-lab.html) within the [Department of Linguistics](http://www.sfu.ca/linguistics.html) at [Simon Fraser University](https://www.sfu.ca). 
-With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systems that benefit human society. My current research is focused on the emergent problem of fake news on social media!
+With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systems that benefit human society. My current research is focused on the emergent problem of fake news and toxicity on social media!
+
+See an overview of my professional journey [here](https://prezi.com/view/k6dcSS3AVbemHokg0YXm/)!
 
 ------
 
