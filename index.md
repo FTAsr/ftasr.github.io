@@ -32,6 +32,7 @@ See an overview of my professional journey [here](https://prezi.com/view/k6dcSS3
 
 
 ## Links
+- [My galary at vidashop.com](https://shopvida.com/collections/fa-t-asr?_ga=2.66342574.1486287886.1518540272-1567470326.1518540272)
 - [Science Cafe Bloomington](http://www.sciencecafebloomington.org/)
 - [Ted talk: Marina Abramović on an art made of trust, vulnerability and connection](https://www.ted.com/talks/marina_abramovic_an_art_made_of_trust_vulnerability_and_connection)
 - [Ted talk: Abha Dawesar on life in the digitalnow](http://www.ted.com/talks/abha_dawesar_life_in_the_digital_now)
