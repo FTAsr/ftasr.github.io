@@ -3,8 +3,8 @@ layout: default
 title: Publications
 ---
 
-WORK IN PROGRESS
-================
+## Work in Progress
+
 
 <span>**F. T. Asr**</span>, M. Taboada. <span>*“Big data and
 quality data for automatic misinformation detection”*</span>.
@@ -17,8 +17,7 @@ annotations”.*</span> Dialog and Discourse.
 
 
 
-JOURNAL & BOOK CHAPTERS
-================
+## Journal Papers and Book Chapters
 
 T. Sanders, V. Demberg, J. Hoek, M. Scholman, <span>**F. T.
 Asr**</span>, S. Zufferey and J. Evers-Vermeul (2018) <span>*“Unifying
@@ -35,8 +34,8 @@ M. Samadi, <span>**F. T. Asr**</span>, J. Schaeffer and Z. Azimifar
 databases".*</span> IEEE Transaction on Computational Intelligence and
 AI in Games.
 
-CONFERENCE PROCEEDINGS
-======================
+
+## Conference Proceedings 
 
 <span>**F. T. Asr**</span>, Rob Zinkov, and M. N. Jones (2018)
 <span>*“Querying Word Embeddings for Similarity and
@@ -102,8 +101,8 @@ M. Samadi, <span>**F. T. Asr**</span>, Z. Azimifar and M. Z. Jahromi
 chess ". *</span> 13$^{th}$ Annual Conference of Computer Society of
 Iran, Kish Island, Iran.
 
-ABSTRACTS
-=========
+
+## Conference Abstracts
 
 <span>**F. T. Asr**</span> and M. N. Jones (2017). <span>*“Different
 layers of distributional semantics”*</span>. Annual Meeting of the
