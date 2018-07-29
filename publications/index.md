@@ -10,10 +10,10 @@ title: Publications
 quality data for automatic misinformation detection”*</span>.
 
 <span>**F. T. Asr**</span> and V. Demberg <span>*“Interpretation of discourse connectives is
-probabilistic”.*</span> Discourse Processes.
+probabilistic”.*</span> 
 
 V. Demberg, <span>**F. T. Asr**</span> and M. Scholman <span>*“Mapping PDTB and RST discourse relation
-annotations”.*</span> Dialog and Discourse.
+annotations”.*</span> 
 
 
 
