@@ -14,13 +14,13 @@ title: Research
  ------
  
 ## Current Projects
-
-- Evaluation of predictive and count-based distributional semantic models (Collaboration with University of California, Riverside (CA), USA)
-- Modeling the meaning of discourse connectives in a distributional vector space
-- Automated scoring of student answers in tutoring systems (Collaboration with Purdue University, USA)
-- Evaluation of standard schema for annotation of discourse relations (Collaboration with Saarland University, Germany and University of Utrecht, Netherlands)
+- News text analysis and automatic misinformation detection using Deep Learning 
+- Modeling the meaning of discourse connectives through distributional semantics
 
 ## Past Projects
+- Evaluation of classic and neural models of distributional semantics (Work at Indiana University, see our NAACL 2018 paper) 
+- Automated scoring of student answers in tutoring systems (Work at Indiana University in collaboration with Purdue University, USA)
+- Evaluation of standard schema for annotation of discourse relations (Collaboration between Saarland University, Germany and University of Utrecht, Netherlands)
 - Application of information theory to production and comprehension of discourse markers (My PhD thesis)
 - Event detection and coreference analysis in large-scale text corpora (My project during an internship at University of Potsdam, Germany)
 - Computational modeling of word category acquisition (My Master's thesis, Collaboration with University of Toronto)
