@@ -89,7 +89,7 @@ Workshop on Advances in Discourse Analysis and its Computational Aspects
 <span>**F. T. Asr**</span>, A. Fazly and Z. Azimifar (2010).
 <span>*\`\`The effect of word-internal properties on syntactic
 categorization: a computational modeling approach".*</span> Proceedings
-of the 32$^{nd}$ Annual Conference of the Cognitive Science Society,
+of the 32nd Annual Conference of the Cognitive Science Society,
 Portland, USA.
 
 M. Samadi, J. Schaeffer, <span>**F. T. Asr**</span>, M. Samar and Z.
