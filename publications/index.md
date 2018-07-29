@@ -3,8 +3,9 @@ layout: default
 title: Publications
 ---
 
-## Work in Progress
+&nbsp;
 
+## Work in Progress
 
 <span>**F. T. Asr**</span>, M. Taboada. <span>*“Big data and
 quality data for automatic misinformation detection”*</span>.
