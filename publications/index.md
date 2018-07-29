@@ -7,7 +7,7 @@ title: Publications
 
 ## Work in Progress
 
-<span>**F. T. Asr**</span>, M. Taboada. <span>*“Big data and
+<span>**F. T. Asr**</span> and M. Taboada. <span>*“Big data and
 quality data for automatic misinformation detection”*</span>.
 
 <span>**F. T. Asr**</span> and V. Demberg <span>*“Interpretation of discourse connectives is
