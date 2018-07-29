@@ -52,11 +52,11 @@ Language Learning (CoNLL), Vancouver, Canada.
 <span>**F. T. Asr**</span>, J. A. Willits and M. N. Jones (2016).
 <span>*“Comparing predictive and co-occurrence based models of lexical
 semantics trained on child-directed speech”*</span>. Proceedings of the
-38$^{th}$ Annual Conference of the Cognitive Science Society,
+38th Annual Conference of the Cognitive Science Society,
 Philadelphia, Pennsylvania, USA.
 
 <span>**F. T. Asr**</span> and V. Demberg (2016). <span>*“But and
-Although under the microscope”*</span>. Proceedings of the 38$^{th}$
+Although under the microscope”*</span>. Proceedings of the 38th
 Annual Conference of the Cognitive Science Society, Philadelphia,
 Pennsylvania, USA.
 
@@ -77,7 +77,7 @@ Cognitive Modeling and Computational Linguistics at ACL, Sofia,
 Bulgaria.
 
 <span>**F. T. Asr**</span> and V. Demberg (2012).
-<span>*\`\`Implicitness of discourse relations".*</span> 24$^{th}$
+<span>*\`\`Implicitness of discourse relations".*</span> 24th
 International Conference on Computational Linguistics (Coling), Bombay,
 India.
 
@@ -94,12 +94,12 @@ Portland, USA.
 
 M. Samadi, J. Schaeffer, <span>**F. T. Asr**</span>, M. Samar and Z.
 Azimifar (2008). <span>*\`\`Using abstraction in two-player
-games".*</span> 18$^{th}$ Conference on Artificial Intelligence, Patras,
+games".*</span> 18th Conference on Artificial Intelligence, Patras,
 Greece.
 
 M. Samadi, <span>**F. T. Asr**</span>, Z. Azimifar and M. Z. Jahromi
 (2008). <span>*\`\`Separating the factors of the optimal solution in
-chess ". *</span> 13$^{th}$ Annual Conference of Computer Society of
+chess ". *</span> 13th Annual Conference of Computer Society of
 Iran, Kish Island, Iran.
 
 
@@ -166,7 +166,7 @@ Conference on the Architecture and Mechanism for Language Processing
 
 <span>**F. T. Asr**</span>, A. Fazly and Z. Azimifar (2011).
 <span>*\`\`Simulation of a psychological experiment in a computational
-framework".*</span> 4$^{th}$ International Conference of Cognitive
+framework".*</span> 4th International Conference of Cognitive
 Science, Tehran, Iran.
 
 <span>**F. T. Asr**</span>, Z. Azimifar and A. Fazly (2009).
