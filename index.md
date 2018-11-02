@@ -9,7 +9,7 @@ title: Short Bio
 ## Fatemeh Torabi Asr
 
 I am currently a post-doctoral fellow at the [Discourse Processing  Lab](http://www.sfu.ca/discourse-lab.html) within the [Department of Linguistics](http://www.sfu.ca/linguistics.html) at [Simon Fraser University](https://www.sfu.ca). 
-With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systems that benefit human society. My current research is focused on the emergent problem of fake news and toxicity on social media!
+With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systems that benefit human society. My current research is focused on social media and news text analysis for the purposes of misinformation detection and gender gap tracking in media.
 
 See an overview of my professional journey [here](https://prezi.com/view/k6dcSS3AVbemHokg0YXm/)!
 
@@ -32,6 +32,7 @@ See an overview of my professional journey [here](https://prezi.com/view/k6dcSS3
 
 
 ## Links
+- [Our demo system for fake news detection](https://fakenews.ngrok.io)
 - [My galary at vidashop.com](https://shopvida.com/collections/fa-t-asr?_ga=2.66342574.1486287886.1518540272-1567470326.1518540272)
 - [Science Cafe Bloomington](http://www.sciencecafebloomington.org/)
 - [TEDx talk: Caroline McHugh on the art of being yourself](https://www.youtube.com/watch?v=veEQQ-N9xWU)

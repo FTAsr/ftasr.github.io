@@ -38,9 +38,12 @@ AI in Games.
 
 ## Conference Proceedings 
 
-<span>**F. T. Asr**</span>, Rob Zinkov, and M. N. Jones (2018)
-<span>*“Querying Word Embeddings for Similarity and
-Relatedness”*</span>. Annual Meeting of the North American Chapter of
+<span>**F. T. Asr**</span> and M. Taboada (2018)
+<span>*“The data challenge in misinformation detection: source reputation vs. content veracity”*</span>. Proceedings of the First Workshop on Fact Extraction and VERification (FEVER) collocated with EMNLP 2018, Brussels, Belgium.
+
+<span>**F. T. Asr**</span>, R. Zinkov, and M. N. Jones (2018)
+<span>*“Querying word embeddings for similarity and
+relatedness”*</span>. Proceedings of the Annual Meeting of the North American Chapter of
 Association for Computational Linguistics (NAACL), New Orleans,
 Louisiana, USA.
 

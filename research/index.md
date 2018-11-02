@@ -9,12 +9,13 @@ title: Research
 
 - Studying language acquisition and human communication through computational modeling, lab experiments and crowd sourcing.<br>
 - Large-scale text analysis to understand discourse semantics/structures and relating it to psychological and social phenomena.<br>
-- Development of natural language processing systems for real-world tasks such as short answer scoring using latest machine learning techniques.<br>
+- Development of natural language processing systems for real-world tasks using latest machine learning techniques.<br>
 
  ------
  
 ## Current Projects
-- News text analysis and automatic misinformation detection using Deep Learning 
+- News text analysis for automatic misinformation detection.
+- Gender gap tracking in Canadian media through Named Entity Recognition and Coreference Analysis
 - Modeling the meaning of discourse connectives through distributional semantics
 
 ## Past Projects
