@@ -8,10 +8,11 @@ title: Short Bio
 
 ## Fatemeh Torabi Asr
 
-I am currently a post-doctoral fellow at the [Discourse Processing  Lab](http://www.sfu.ca/discourse-lab.html) within the [Department of Linguistics](http://www.sfu.ca/linguistics.html) at [Simon Fraser University](https://www.sfu.ca). 
-With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systems that benefit human society. My current research is focused on social media and news text analysis for the purposes of misinformation detection and gender gap tracking in media.
+While working in tech industry, I'm still affiliated to the [Discourse Processing  Lab](http://www.sfu.ca/discourse-lab.html) at [Simon Fraser University](https://www.sfu.ca). 
+With a background in software engineering and research experience in the area of cognitive computing and computational linguistics (NLP), I aim at understanding [semantic processing](https://en.wikipedia.org/wiki/Semantic_processing) in human brain and developing language-intelligent systems that benefit human society. My most recent research has been focused on social media and news text analysis for the purposes of misinformation detection and gender gap tracking in media. 
 
-See an overview of my professional journey [here](https://prezi.com/view/k6dcSS3AVbemHokg0YXm/)!
+See an overview of my academic journey [here](https://prezi.com/view/k6dcSS3AVbemHokg0YXm/)!
+This page is not being updated frequently. Please check [google scholar](https://scholar.google.com/citations?user=ynLYeCMAAAAJ&hl=en) for my publications. 
 
 ------
 
